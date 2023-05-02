@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-code",
+    "name": "nopoco/laminas-code",
     "description": "Extensions to the PHP Reflection API, static code scanning, and code generation",
     "keywords": [
         "laminas",
